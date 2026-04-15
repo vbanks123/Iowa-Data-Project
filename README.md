@@ -11,8 +11,11 @@ A web application that visualizes Iowa government data using Google Maps API to 
 
 This project visualizes correlations in Iowa data, including:
 - Liquor sales & DUI charges
-- Sex offenders & Amber Alerts (& incarceration data)
-- Math and Reading Proficiency & Iowa PBS Services (stretch goal)
+- Math and Reading Proficiency & Iowa PBS Services
+
+## Demo
+
+[Watch the demo](./IowaCountyInsightsDemoVideo.mp4)
 
 ## Features
 
