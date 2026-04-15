@@ -15,7 +15,7 @@ This project visualizes correlations in Iowa data, including:
 
 ## Demo
 
-[Watch the demo](./IowaCountyInsightsDemoVideo.mp4)
+[Watch the demo](https://photos.app.goo.gl/28nDqZSMTnW8RDuv9)
 
 ## Features
 
